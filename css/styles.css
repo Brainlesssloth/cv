@@ -1,0 +1,35 @@
+/*
+Colors to use
+#2b580c - Dark Green
+#639a67 - Medium Green
+#d8ebb5 - Light Green
+#d9bf77 - Beige
+*/
+
+body {
+    background-color: #d8ebb5;
+}
+
+hr {
+    margin-left: 10px;
+    border-style: dotted none none;
+    border-color: #d9bf77;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+    }
+
+h1 {
+    color: #2b580c;
+}
+
+h1 em {
+    color: #058119;
+    font-size: 50px;
+    font-family: fantasy;
+    padding-right:4px;
+}
+
+h3 {
+    color: #2b580c;
+}
